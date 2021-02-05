@@ -10,7 +10,7 @@ Install Android Studio
 Open workspace
 
 	Clone this repository and import into Android Studio
-	git clone https://github.com/nifferdil/GitHub-Starred.git
+	git clone https://github.com/nifferdil/Sample_Github_App.git
   
 Then, with the code open inside of Android Studio, press play. Your emulator will do the rest of the work.
 
